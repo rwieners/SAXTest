@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Mit XMLSpy v2017 sp2 (x64) (http://www.altova.com) von Altova XMLSpy 2018 Professional XML Editor, Installed for 393 users (Deutsche Telekom IT GmbH) bearbeitet -->
+<FlexProdKosUEVTMsg>
+	<DB-Bereich>11</DB-Bereich>
+	<Datei-Erstellungszeitpunkt>2019082113170254</Datei-Erstellungszeitpunkt>
+	<Filter>
+		<ONKz>30</ONKz>
+		<AsB>381</AsB>
+		<UeVtNr>2002</UeVtNr>
+	</Filter>
+	<UEVT_Daten id="ID UEVT Daten">
+		<Zeitpunkt_UEVT-Aenderung>2019082113170254</Zeitpunkt_UEVT-Aenderung>
+		<UEVT-Kopf>
+			<UEVT-Key>11A337E209F4B2</UEVT-Key>
+			<ONKz>00030</ONKz>
+			<AsB>0381</AsB>
+			<UeVtNummer>2002</UeVtNummer>
+			<CarrierCode>0041</CarrierCode>
+			<Geschaeftsfallkenner>Migration</Geschaeftsfallkenner>
+			<InbetriebnahmeDatum>20051123</InbetriebnahmeDatum>
+			<Kollokationsart>physikalisch</Kollokationsart>
+		</UEVT-Kopf>
+		<Stift-Info id="Stift-Info Stift 3">
+			<UeVtEvsStift>0003</UeVtEvsStift>
+			<Status>frei</Status>
+			<GGS id="GGS">
+				<HVTV-GGS id="HVTV-GGS">
+					<GGS-Bucht>613</GGS-Bucht>
+					<GGS-Zeile>01</GGS-Zeile>
+					<GGS-FE>05</GGS-FE>
+					<GGS-Stift>04</GGS-Stift>
+					<Kennbuchstabe>C</Kennbuchstabe>
+					<VBK-Art>geschirmt</VBK-Art>
+				</HVTV-GGS>
+			</GGS>
+		</Stift-Info>
+		<Stift-Info id="Stift-Info Stift 4">
+			<UeVtEvsStift>0004</UeVtEvsStift>
+			<Status>frei</Status>
+			<GGS>
+				<HVTV-GGS>
+					<GGS-Bucht>613</GGS-Bucht>
+					<GGS-Zeile>01</GGS-Zeile>
+					<GGS-FE>05</GGS-FE>
+					<GGS-Stift>07</GGS-Stift>
+					<Kennbuchstabe>C</Kennbuchstabe>
+					<VBK-Art>geschirmt</VBK-Art>
+				</HVTV-GGS>
+			</GGS>
+		</Stift-Info>
+		<Stift-Info id="Stift-Info Stift 5">
+			<UeVtEvsStift>0005</UeVtEvsStift>
+			<Status>frei</Status>
+			<GGS>
+				<HVTV-GGS>
+					<GGS-Bucht>613</GGS-Bucht>
+					<GGS-Zeile>01</GGS-Zeile>
+					<GGS-FE>05</GGS-FE>
+					<GGS-Stift>10</GGS-Stift>
+					<Kennbuchstabe>C</Kennbuchstabe>
+					<VBK-Art>geschirmt</VBK-Art>
+				</HVTV-GGS>
+			</GGS>
+		</Stift-Info>
+		<Stift-Info id="Stift-Info Stift 6">
+			<UeVtEvsStift>0006</UeVtEvsStift>
+			<Status>belegt</Status>
+			<GGS>
+				<HVTV-GGS>
+					<GGS-Bucht>618</GGS-Bucht>
+					<GGS-Zeile>02</GGS-Zeile>
+					<GGS-FE>05</GGS-FE>
+					<GGS-Stift>01</GGS-Stift>
+					<Kennbuchstabe>C</Kennbuchstabe>
+					<VBK-Art>geschirmt</VBK-Art>
+				</HVTV-GGS>
+			</GGS>
+			<Leitung_UEVT id="Leitung_UEVT">
+				<LTGBZ>
+					<LSZ>96W</LSZ>
+					<ONKzA>00030</ONKzA>
+					<RufNr>1708143</RufNr>
+					<LSZZ>H13</LSZZ>
+				</LTGBZ>
+				<LtgKey>11EC17E49074C5</LtgKey>
+				<RangierungsKennz>Bestand</RangierungsKennz>
+			</Leitung_UEVT>
+		</Stift-Info>
+	</UEVT_Daten>
+</FlexProdKosUEVTMsg>
